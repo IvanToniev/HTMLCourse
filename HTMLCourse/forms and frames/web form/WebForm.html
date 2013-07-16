@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css">
+        #mainTable {
+            background: black;
+        }
+
+        td {
+            padding:3px;
+            
+            background: white;
+        }
+
+        .smallInput {
+            width: 100px;
+        }
+
+        input {
+            width: 200px;
+            margin-left: 5px;
+        }
+
+        td strong {
+            float: right;
+            padding-right: 5px;
+        }
+    </style>
+</head>
+<body>
+ <form action="#">
+    <table id="mainTable">
+        <colgroup>
+            <col style="width: 150px" />
+            <col style="width: 220px" />
+        </colgroup>
+        <tr>
+            <td><strong>Last Name</strong></td>
+            <td colspan="3">
+                <input type="text" style="width:270px;" /></td>
+        </tr>
+        <tr>
+            <td><strong>First Name</strong></td>
+            <td colspan="3">
+                <input type="text" style="width:270px;"/></td>
+        </tr>
+        <tr>
+            <td><strong>Address</strong></td>
+            <td colspan="3">
+                <textarea rows="3" style="margin-left:5px;"></textarea></td>
+        </tr>
+        <tr>
+            <td><strong>City</strong></td>
+            <td><input class="smallInput" type="text" style="width:200px;" /></td>
+            <td colspan="1">State</td>
+            <td colspan="1"><input style="width: 30px" type="text" /></td>
+        </tr>
+        <tr>
+            <td><strong>Zip/Postal Code</strong></td>
+            <td colspan="3"><input type="text" style="width: 70px"/> </td>
+        </tr>
+        <tr>
+            <td><strong>Country</strong></td>
+            <td colspan="3"><select name="Country" style="width:200px; margin-left:5px;"><option value="Value1" selected="selected">Bulgaria</option></select></td>
+        </tr>
+        <tr>
+            <td><strong>Phone(country code, area code, number)</strong></td>
+            <td colspan="3"> (+<input type="text" style="width:50px; margin-left:0;" /> ) <input type="text" style="width:50px;" /> -<input type="text" style="width:130px;" /></td>
+        </tr>
+        <tr>
+            <td><strong>E-mail</strong></td>
+            <td colspan="3"><input type="email" style="width:270px;"/></td>
+        </tr>
+        <tr>
+            <td><strong>Birth Date</strong></td>
+            <td colspan="3">Month<input type="text" style="width:20px;" />  Day<input type="text" style="width:20px;" /> Year(4 digit)<input type="text" style="width:70px;" /></td>
+        </tr>
+        <tr>
+            <td><strong>Gender</strong></td>
+            <td colspan="3">
+                <select>
+                    <option>Male</option>
+                    <option>Female</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Starting Date</strong></td>
+            <td colspan="3"><input type="radio"style="width:20px;"/>Spring 2006  <input type="radio" style="width:20px;"/>Summer 2006</td>
+        </tr>
+        <tr>
+            <td><strong>Comments/Questions</strong></td>
+            <td colspan="3"><textarea rows="3" ></textarea></td>
+        </tr>
+        <tr>
+            <td rowspan="2" colspan="4" style="background-color:lightblue; padding-left:25px;"><input type="button" value="Submit" />         <input type="button" value="Clear this form"/></td>
+        </tr>
+
+    </table>
+ </form>
+</body>
+</html>

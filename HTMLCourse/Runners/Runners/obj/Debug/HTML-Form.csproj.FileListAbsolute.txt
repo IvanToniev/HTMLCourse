@@ -1,0 +1,5 @@
+C:\Users\User\Projects\HTML-Form\HTML-Form\bin\HTML-Form.dll
+C:\Users\User\Projects\HTML-Form\HTML-Form\bin\HTML-Form.pdb
+C:\Users\User\Projects\HTML-Form\HTML-Form\obj\Debug\HTML-Form.csprojResolveAssemblyReference.cache
+C:\Users\User\Projects\HTML-Form\HTML-Form\obj\Debug\HTML-Form.dll
+C:\Users\User\Projects\HTML-Form\HTML-Form\obj\Debug\HTML-Form.pdb

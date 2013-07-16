@@ -1,0 +1,5 @@
+C:\Users\User\Projects\ListsInLists\ListsInLists\bin\ListsInLists.dll
+C:\Users\User\Projects\ListsInLists\ListsInLists\bin\ListsInLists.pdb
+C:\Users\User\Projects\ListsInLists\ListsInLists\obj\Debug\ListsInLists.csprojResolveAssemblyReference.cache
+C:\Users\User\Projects\ListsInLists\ListsInLists\obj\Debug\ListsInLists.dll
+C:\Users\User\Projects\ListsInLists\ListsInLists\obj\Debug\ListsInLists.pdb

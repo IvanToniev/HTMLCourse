@@ -1,0 +1,5 @@
+C:\Users\User\Projects\FriendsPage\FriendsPage\bin\FriendsPage.dll
+C:\Users\User\Projects\FriendsPage\FriendsPage\bin\FriendsPage.pdb
+C:\Users\User\Projects\FriendsPage\FriendsPage\obj\Debug\FriendsPage.csprojResolveAssemblyReference.cache
+C:\Users\User\Projects\FriendsPage\FriendsPage\obj\Debug\FriendsPage.dll
+C:\Users\User\Projects\FriendsPage\FriendsPage\obj\Debug\FriendsPage.pdb
